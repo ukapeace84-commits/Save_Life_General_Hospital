@@ -1,11 +1,12 @@
-Save Life General Hospital
+# Save Life General Hospital
 
-Patient Admission, Billing and Insurance Analysis with Microsoft Excel
+### Patient Admission, Billing and Insurance Analysis Using Microsoft Excel
 
-"Save Life General Hospital" (hospital-cover.png)
-![Hospital Building](hospital.png)
+![Save Life General Hospital](Save%20Life.png)
 
-![Save Life Dashboard](save_life.png)
+## Hospital Performance Dashboard
+
+![Save Life General Hospital Dashboard](hospital.png)
 
 About the Project
 
