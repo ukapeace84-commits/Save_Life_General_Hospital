@@ -2,7 +2,7 @@
 
 ### Patient Admission, Billing and Insurance Analysis Using Microsoft Excel
 
-![Save Life General Hospital](SaveLife.png)
+![Save Life General Hospital](saveLife.png)
 
 ## Hospital Performance Dashboard
 
